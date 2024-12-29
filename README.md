@@ -4,9 +4,6 @@
 
 # Homework 5 - USA Airport Flight Analysis  
 
-<p align="center">
-  <img src="https://gtm-24.de/wp-content/uploads/2019/11/GTM-24-55.jpg">
-</p>
 
 ---
 
