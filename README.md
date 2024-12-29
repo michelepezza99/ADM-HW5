@@ -1,6 +1,6 @@
 # ADM-HW5
 
-+ **main.ipynb:** [Link](https://nbviewer.org/url/raw.githubusercontent.com/michelepezza99/ADM-HW5/main/main_final.ipynb)
++ **main.ipynb:** [Link](https://github.com/michelepezza99/ADM-HW5/blob/main/main_final.ipynb)
 
 # Homework 5 - USA Airport Flight Analysis  
 
